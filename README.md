@@ -49,15 +49,18 @@ node injector.js 198X.exe 198X-hacks.js
 Sample output:
 ```
 Injected "198X-hacks.js" into 198X.exe
+
 [*] STARTED PLAYING: The Runaway
 [+] Collision! Removing speed loss and disabling wipeout
 [+] Collision! Removing speed loss and disabling wipeout
 [+] Collision! Removing speed loss and disabling wipeout
 [+] Collision! Removing speed loss and disabling wipeout
+
 [*] STARTED PLAYING: Kill Screen
 [+] Player took RPG damage: 31, health (before damage) was: 99
 [+] Resetting RPG health to: 99
 [+] Player took RPG damage: 33, health (before damage) was: 99
 [+] Resetting RPG health to: 99
+
 [*] STARTED PLAYING: Credits
 ```
